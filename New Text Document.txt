@@ -1,0 +1,50 @@
+
+Diff brn BDD and TDD
+
+https://www.geeksforgeeks.org/difference-between-bdd-vs-tdd-in-software-engineering/
+
+https://github.com/rajiramar92/GitLearning/compare
+rjshwvaree@gmail.com
+Visha$123
+
+https://rajiramar.atlassian.net/jira/software/projects/PB/boards/1
+
+
+
+
+Webdriver driver=new ChromeDriver();
+
+Webdriver is interface ,we cant crate object
+so creating object for driver class means ChromeDriver driver=new ChromeDriver();
+Webdriver interface implemented in remote webdriver class but remote web driver 
+cant use in local system and can be used in remote system.
+so it will be implemented on subclass
+
+
+
+//upcasting....convert child to parent
+parent a=new child();
+
+parent object will hold the child(assigning to parent)
+
+Webdriver driver=new ChromeChid();
+
+List a=new LinkedList();
+
+//downcasting....convert parent to child
+child a=new parent();
+
+assigning to child
+
+child b=(child)a;
+
+TakesScreenShot tk=(TakesScreenshot)driver;(done in this way as we are declaring Webdriver driver=new ChromeDriver();)
+
+
+
+
+
+
+
+
+
